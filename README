@@ -1,0 +1,13 @@
+FACE RECOGNITION
+
+this direrctory is for face recognition project. This project
+consist of 4 scripts and a couple of folder
+
+faceDetection.py
+    -Cascades          // to store haarcascade file 
+faceDataset.py
+    -faceDataset       // storing a set of face to be trained
+faceTraining.py
+    -trainedFaceData   // storing trained face data .yml file
+faceRecognition.py
+
